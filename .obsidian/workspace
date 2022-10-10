@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "6b2b44f0630454be",
+    "type": "split",
+    "children": [
+      {
+        "id": "bab7d3596f44fafb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "etc/Data Driven Decision을 위한 데이터 플랫폼 구축기.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b00534310a41357c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bb80d8eab93f08b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95b7eb04bc44f92b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5cb68e592587ef8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b270917814c0b9f9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c08c0b2fe5f4a2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a19bc30620d981c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de37e5bdc3da641a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "etc/Data Driven Decision을 위한 데이터 플랫폼 구축기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6a973daf5f3412e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "etc/Data Driven Decision을 위한 데이터 플랫폼 구축기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7f623796c102ef0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "316cb0ce0a202089",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "etc/Data Driven Decision을 위한 데이터 플랫폼 구축기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bab7d3596f44fafb",
+  "lastOpenFiles": [
+    "etc/05.맵리듀스 중급 자바.md",
+    "1.그리디.md"
+  ]
+}
